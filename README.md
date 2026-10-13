@@ -22,5 +22,5 @@ The script writes `results.csv` with route-level mean prices, expected sales, an
 
 ## Limitations
 
-This is not a claim that the paper's coupled HJB-Kolmogorov solver has been reproduced exactly. It is a student-built, finite-horizon best-response proxy using publicly available route summaries.
+This is not a claim that the paper's coupled HJB-Kolmogorov solver has been reproduced exactly. It is student-built finite-horizon best-response proxy using publicly available route summaries.
 
